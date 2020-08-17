@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-
+//Coffee purchasing program
 class Program
 {
     static void Main(string[] args)
